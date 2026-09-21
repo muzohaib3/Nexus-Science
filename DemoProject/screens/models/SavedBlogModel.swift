@@ -12,3 +12,5 @@ struct SavedBlogModel:Identifiable{
     let title:String
     let data:String
 }
+
+
